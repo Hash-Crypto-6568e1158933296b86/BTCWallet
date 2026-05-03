@@ -90,6 +90,9 @@ BTCWallet/
 ### 1. Pré-requisitos
 
 ```bash
+#gitclone
+gitclone https://github.com/Hash-Crypto-6568e1158933296b86/BTCWallet.git
+
 # Entrar na pasta do projeto
 cd ~/BTCWallet
 
