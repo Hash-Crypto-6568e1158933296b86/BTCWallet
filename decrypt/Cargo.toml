@@ -1,0 +1,12 @@
+[package]
+name = "btc_decrypt_gui"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe  = { version = "0.28", features = ["default"] }
+rfd     = "0.14"
+base64  = "0.22"
+aes-gcm = "0.10"    # AES-256-GCM autenticado
+pbkdf2 = { version = "0.13.0", features = ["hmac"] }
+sha2 = "0.11.0"
