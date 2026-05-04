@@ -14,6 +14,8 @@ Carteira Bitcoin offline (cold wallet) de código aberto construída sobre o **E
 - Sem Wi-Fi, sem Bluetooth — air-gapped por design
 - Aplicativo desktop em Rust para descriptografar o backup `.enc`
 
+- ![](./images/IMG_1.jpg)
+
 ---
 
 ## Hardware Necessário
