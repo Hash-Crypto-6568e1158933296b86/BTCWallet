@@ -12,8 +12,7 @@ Carteira Bitcoin offline (cold wallet) de código aberto construída sobre o **E
 - Armazenamento criptografado no cartão SD (AES-256-GCM + PBKDF2-SHA256)
 - Interface touch em modo Portrait 240×320
 - Sem Wi-Fi, sem Bluetooth — air-gapped por design
-- Aplicativo desktop em Rust para descriptografar o backup `.enc`
-- 
+- Aplicativo desktop em Rust para descriptografar o backup `.enc` 
 - - Você tem o **ESP32-2432S028R (CYD)**
 - ![](./Imagens/IMG_1.jpg)
 ---
