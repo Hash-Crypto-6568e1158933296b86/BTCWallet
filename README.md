@@ -13,8 +13,9 @@ Carteira Bitcoin offline (cold wallet) de código aberto construída sobre o **E
 - Interface touch em modo Portrait 240×320
 - Sem Wi-Fi, sem Bluetooth — air-gapped por design
 - Aplicativo desktop em Rust para descriptografar o backup `.enc`
-
-- ![](./Images/IMG_1.jpg)
+- 
+- Você tem o **ESP32-2432S028R (CYD)**
+- ![](./BTCWallet/Images/IMG_1.jpg)
 
 ---
 
